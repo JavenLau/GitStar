@@ -46,6 +46,7 @@
 <br>[]():
 
 ### ML
+[lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm):李航博士《统计学习方法》一书中所有算法实现
 <br>[lightlda](https://github.com/da03/lightlda):机器学习方法--lightlda
 <br>[hmmlearn](https://github.com/hmmlearn/hmmlearn):Hidden Markov Models in Python, with scikit-learn like API
 <br>[]():
