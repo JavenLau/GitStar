@@ -10,7 +10,7 @@
 管理github上star的项目
 
 ## SELF
-[DNNs](https://github.com/JavenLau/DNNs)自己写的一些深度神经网络
-<br>[BasicMLAlgs](https://github.com/JavenLau/BasicMLAlgs)自己写的一些机器学习程序
-<br>[PaperCodes](https://github.com/JavenLau/PaperCodes)自己论文的程序
+[DNNs](https://github.com/JavenLau/DNNs)：自己写的一些深度神经网络
+<br>[BasicMLAlgs](https://github.com/JavenLau/BasicMLAlgs)：自己写的一些机器学习程序
+<br>[PaperCodes](https://github.com/JavenLau/PaperCodes)：自己论文的程序
 
